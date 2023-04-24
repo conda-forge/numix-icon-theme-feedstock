@@ -1,11 +1,11 @@
-About numix-icon-theme
-======================
+About numix-icon-theme-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numix-icon-theme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/numixproject/numix-icon-theme
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numix-icon-theme-feedstock/blob/main/LICENSE.txt)
 
 Summary: Official base icon theme from the Numix project.
 
