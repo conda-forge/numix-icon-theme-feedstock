@@ -1,5 +1,5 @@
 {% set name = "numix-icon-theme" %}
-{% set version = "25.12.09.2" %}
+{% set version = "25.12.14" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/numixproject/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 38f16c9fbb56d316b6bc75eb2a9bdb35e6b19770612250eed40e988fe20b5a6f
+  sha256: e9f41f45b8880477770976348ad067208ad3a8ec62564ab0c80c6287e6854810
 
 build:
   number: 0
